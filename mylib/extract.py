@@ -8,7 +8,7 @@ import base64
 load_dotenv()
 server_h = os.getenv("SERVER_HOSTNAME")
 access_token = os.getenv("ACCESS_TOKEN")
-FILESTORE_PATH = "dbfs:/FileStore/tinayiluo_Databricks_ETL_Pipeline"
+FILESTORE_PATH = "dbfs:/FileStore/Vivian_Project11"
 headers = {'Authorization': 'Bearer %s' % access_token}
 url = "https://"+server_h+"/api/2.0"
 
