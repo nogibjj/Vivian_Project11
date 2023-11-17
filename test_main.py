@@ -9,7 +9,7 @@ import os
 load_dotenv()
 server_h = os.getenv("SERVER_HOSTNAME")
 access_token = os.getenv("ACCESS_TOKEN")
-FILESTORE_PATH = "dbfs:/FileStore/tinayiluo_Databricks_ETL_Pipeline"
+FILESTORE_PATH = "dbfs:/FileStore/Vivian_Project11"
 url = f"https://{server_h}/api/2.0"
 
 # Function to check if a file path exists and auth settings still work
