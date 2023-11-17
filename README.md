@@ -1,6 +1,5 @@
 # README [![CI](https://github.com/nogibjj/Vivian_Project11/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Vivian_Project11/actions/workflows/cicd.yml)
 
-Week 11: Data Pipeline with Databricks
 
 ### Introduction 
 
