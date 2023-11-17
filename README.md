@@ -1,4 +1,4 @@
-# README [![CI](https://github.com/nogibjj/Vivian_Project11/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Vivian_Project11/actions/workflows/cicd.yml)
+# README [![CI](https://github.com/nogibjj/Project4_Vivian/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/Project4_Vivian/actions/workflows/ci.yml)
 
 
 ### Introduction 
